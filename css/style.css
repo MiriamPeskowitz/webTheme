@@ -1,0 +1,42 @@
+* {
+	background-color: white;
+}
+
+body {
+	font-family: 'Saira', sans-serif;
+}
+
+#nav1 {
+	display: flex;
+	justify-content: space-around;
+	border: 4px solid #ccc;
+}
+
+#topcontent {
+	display: flex;
+	justify-content: space-around;
+	margin: 30px;
+	padding: 30px;
+	border: 4px solid #ccc;
+}
+
+#content {
+	margin: 30px;
+	padding: 30px;
+	border: 4px solid #ccc;
+}
+#boxes {
+	display: flex;
+	justify-content: space-around;
+	margin: 30px;
+	padding: 30px;
+	border: 4px solid #ccc;
+}
+
+footer {
+	margin: 30px;
+	padding: 30px;
+	border: 4px solid #ccc;
+	bottom: 0;
+	/* pin to bottom 
+}
